@@ -1,12 +1,10 @@
 @RekenGit
 
-Main: C#, Lua
-
-Second: C++, SQL, HTML, CSS
-
+Main: C#, Lua <br/>
+Second: C++, SQL, HTML, CSS <br/>
 Also know: PHP, JS.
 
-Programs I use:
- C# - Visual Studio
- Lua - Sublime text 3
+Programs I use: <br/>
+ C# - Visual Studio <br/>
+ Lua - Sublime text 3 <br/>
  Other - Notepad++, Codeblock, Visual Studio Code, Brackets..
