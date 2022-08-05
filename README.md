@@ -1,6 +1,6 @@
 @RekenGit
 
-<b>Main: C#, Lua</b><br/>
+<b>Main: .Net, C#, Lua</b><br/>
 Second: C++, SQL, HTML, CSS<br/>
 Also know: PHP, JS.
 
