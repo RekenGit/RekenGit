@@ -1,7 +1,9 @@
 @RekenGit
 
 Main: C#, Lua
+
 Second: C++, SQL, HTML, CSS
+
 Also know: PHP, JS.
 
 Programs I use:
