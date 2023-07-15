@@ -1,8 +1,8 @@
 @RekenGit
 
 <b>Main: .Net, C#, Lua</b><br/>
-Second: C++, SQL, HTML, CSS<br/>
-Also know: PHP, JS.
+Second: JS, SQL, HTML, CSS, C++<br/>
+Also know: PHP, Python.
 
 <b>Programs I use:</b> <br/>
  .Net, C# - Visual Studio <br/>
