@@ -6,6 +6,6 @@ Can write using: JS, SQL, C++, HTML, CSS <br/>
 Also know some of: jQuery, PHP, Python.
 
 <b>Programs/Tools I use:</b> <br/>
-💻 IDE: Visual Studio, Codeblock, Brackets
-📄 Text editors: Sublime text 3, Notepad++, Visual Studio Code
+💻 IDE: Visual Studio, Codeblock, Brackets <br/>
+📄 Text editors: Sublime text 3, Notepad++, Visual Studio Code <br/>
 🎨 Graphic: Adobe Photoshop, Blender, Paint.NET
