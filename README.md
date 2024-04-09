@@ -1,10 +1,11 @@
 @RekenGit
 
-<b>Main: .Net, C#, Lua</b><br/>
-Second: JS, SQL, HTML, CSS, C++<br/>
-Also know: PHP, Python.
+<b>Main: C#</b> <br/>
+Every day use: .Net, Lua <br/>
+Can write using: JS, SQL, C++, HTML, CSS <br/>
+Also know some of: jQuery, PHP, Python.
 
-<b>Programs I use:</b> <br/>
- .Net, C# - Visual Studio <br/>
- Lua - Sublime text 3 <br/>
- Other - Notepad++, Codeblock, Visual Studio Code, Brackets..
+<b>Programs/Tools I use:</b> <br/>
+💻 IDE: Visual Studio, Codeblock, Brackets
+📄 Text editors: Sublime text 3, Notepad++, Visual Studio Code
+🎨 Graphic: Adobe Photoshop, Blender, Paint.NET
